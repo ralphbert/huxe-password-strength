@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "password-strength"
+    }
+  },
+  "defaultProject": "password-strength",
+  "cli": {
+    "analytics": false
+  }
 }
